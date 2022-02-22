@@ -1,0 +1,18 @@
+{
+  "name": "p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "startDev": "nodemon app.js",
+    "telem": "standard"
+  },
+  "author": "Sergio Montaño",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "standard": "^16.0.4"
+  }
+}
